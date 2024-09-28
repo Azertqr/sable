@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Chat("Bonjour, je suis dans le chat !")
